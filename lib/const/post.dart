@@ -1,0 +1,52 @@
+import 'const.dart';
+
+List post = [
+  {
+    "name": "G",
+    'subnamea': music,
+    'subnameb': "บักคนชั่ว • TIMETHAI",
+    "logo": img01,
+    "img1": img05,
+    "img2": img06,
+    "likes": "1,001",
+    "comment": "My look at 3D Cartoon",
+    "commentNumber": "3",
+    "time": "35 minutes ago ",
+  },
+  {
+    "name": "A",
+    'subnamea': transparent,
+    'subnameb': "Phitsanulok, Thailand",
+    "logo": img02,
+    "img1": img05,
+    "img2": img06,
+    "likes": "1,234",
+    "comment": "Do i looking good at 3D",
+    "commentNumber": "4",
+    "time": "2 hours ago",
+  },
+  {
+    "name": "M",
+    'subnamea': transparent,
+    'subnameb': "Paris, France",
+    "logo": img03,
+    "img1": img05,
+    "img2": img06,
+    "likes": "191",
+    "comment": "Yeah ",
+    "commentNumber": "3",
+    "time": "2 hours ago",
+  },
+  {
+    "name": "E",
+    'subnamea': transparent,
+    'subnameb': "Phopphra, Tak",
+    "logo": img04,
+    "img1": img05,
+    "img2": img06,
+    "likes": "14",
+    "comment": "That's cool",
+    "commentNumber": "5",
+    "time": "1 days ago",
+  }
+];
